@@ -1,4 +1,3 @@
-# ebac-github-python
-Módulo 5 referente ao back-end python
+Módulo 5 Back-end Python
 
-# Curso Ebac Python back-end
+# Aprendendo os comandos do Git/GitHub
